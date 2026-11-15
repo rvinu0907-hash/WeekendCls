@@ -1,1 +1,7 @@
 Get List of 5 names from user and print them
+list=[]
+n=input("enter the name lists:")
+for i in range(n):
+  element=input("enter the names")
+  list.append(element)
+list
