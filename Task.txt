@@ -5,4 +5,10 @@ Print (Name)
 name = input("Vijay K")
 
 print("Your name is:", name)
+========
+
+NAME=input("ENTER YOUR NAME")
+print("NAME")
+=============
+
 
