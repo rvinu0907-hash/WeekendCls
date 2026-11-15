@@ -1,3 +1,8 @@
+Get your name as input and print it in python.
+Name-"Ruba"
+Print (Name)
+=======
 name = input("Vijay K")
 
 print("Your name is:", name)
+
