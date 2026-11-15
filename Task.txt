@@ -1,1 +1,3 @@
-Get your name as input and print it in python.
+name = input("Vijay K")
+
+print("Your name is:", name)
