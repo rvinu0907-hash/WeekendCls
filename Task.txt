@@ -1,1 +1,3 @@
 Get your name as input and print it in python.
+Name-"Ruba"
+Print (Name)
