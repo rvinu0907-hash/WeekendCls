@@ -1,0 +1,1 @@
+Print numbers that are multiplicands of 4th table
